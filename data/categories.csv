@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5cce60d2fcdca116652f9f4d"},"name":"business","color":"#ff1cd6","__v":0,"icon":"faWallet"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f4f"},"name":"entertainment","color":"#fe9325","__v":0,"icon":"faTv"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f50"},"name":"health","color":"#ff7d9b","__v":0,"icon":"faUserInjured"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f51"},"name":"science","color":"#ffe22b","__v":0,"icon":"faHandSpock"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f52"},"name":"sports","color":"#a3ff6f","__v":0,"icon":"faFutbol"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f53"},"name":"technology","color":"#fce601","__v":0,"icon":"faHandSpock"}
+{"_id":{"$oid":"5cce60d2fcdca116652f9f54"},"name":"general","color":"#0196fc","__v":0,"icon":"faNewspaper"}
